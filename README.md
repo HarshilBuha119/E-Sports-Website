@@ -8,7 +8,7 @@ ProjectOverview: |
   - Home Page
   - About Us
   - Contact Page
-  - Our Part
+  - Our Partners
 
   The project is designed with a clean structure, featuring separate files for HTML, CSS, and JavaScript, and is organized to support ease of navigation and maintenance.
 
